@@ -20,6 +20,6 @@ List of things built with here
 Contributing
 
 ##Authors
-* Giselle Ramos
-* Kimberly Ramos
 * Abigail Brannan
+* Gisselle Ramos
+* Kimberly Ramos
