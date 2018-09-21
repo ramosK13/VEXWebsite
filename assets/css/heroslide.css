@@ -1,0 +1,87 @@
+
+/*hero image attempt*/
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image-home {
+    /* The image used */
+    background-image: url("../img/vexlogo.jpg");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-image-comp {
+    /* The image used */
+    background-image: url("../img/flagfoot.jpg");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image-mech {
+    /* The image used */
+    background-image: url("../img/confkc.PNG");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image-prog {
+    /* The image used */
+    background-image: url("../img/newofficerpic.PNG");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image-off {
+    /* The image used */
+    background-image: url("../img/technipgm.JPG");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: EB Garamond,serif;
+    font-size: 50px;
+}
+
+/*responsive image*/
+.responsiveimg {
+    width: 100%;
+    max-width: 680px;
+    height: auto;
+}
