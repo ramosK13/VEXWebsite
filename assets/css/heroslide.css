@@ -7,7 +7,7 @@ body, html {
 /* The hero image */
 .hero-image-home {
     /* The image used */
-    background-image: url("../img/vexlogo.jpg");
+    background-image: url("../img/group17-18.JPG");
 
     /* Set a specific height */
     height: 50%;
@@ -20,7 +20,7 @@ body, html {
 }
 .hero-image-comp {
     /* The image used */
-    background-image: url("../img/flagfoot.jpg");
+    background-image: url("../img/starstruck4.jpg");
 
     /* Set a specific height */
     height: 50%;
@@ -32,7 +32,7 @@ body, html {
 }
 .hero-image-mech {
     /* The image used */
-    background-image: url("../img/confkc.PNG");
+    background-image: url("../img/starstruck1.jpg");
 
     /* Set a specific height */
     height: 50%;
@@ -44,7 +44,7 @@ body, html {
 }
 .hero-image-prog {
     /* The image used */
-    background-image: url("../img/newofficerpic.PNG");
+    background-image: url("../img/starstruck3.jpg");
 
     /* Set a specific height */
     height: 50%;
@@ -56,7 +56,7 @@ body, html {
 }
 .hero-image-off {
     /* The image used */
-    background-image: url("../img/technipgm.JPG");
+    background-image: url("../img/OldTeamPic.JPG");
 
     /* Set a specific height */
     height: 50%;
