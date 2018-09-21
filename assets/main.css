@@ -8,9 +8,8 @@
  */
 
 body {
-  background-color: #f2f2f2;
-    /*font-family: 'EB Garamond', serif;*/
-    font-family: 'Open Sans Condensed', sans-serif;
+  	background-color: #f2f2f2; /* maroonish*/
+    font-family: 'Dosis', sans-serif;
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -33,7 +32,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Dosis', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -130,7 +129,7 @@ p {
 
 /* Links */
 a {
-    color: #b73131;/*light red/maroonish*/
+    color: #ad204a;/*pinkish/reddish*/
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -203,7 +202,7 @@ a:after {
 	color: white;
 	font-size: 30px;
 	font-weight: 100;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Kosugi Maru', sans-serif;
     font-style: oblique;
 }
 
@@ -248,7 +247,7 @@ a:after {
 /* bottom Wrap */
 
 #b {
-	background: #333;/*lighter black*/
+	background: #510018;/*maroonish*/
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center
@@ -303,7 +302,7 @@ a:after {
 }
 
 .menu h1.logo a {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Dosis', sans-serif;
 	font-size: 12px;
 	font-weight: 700;
 	letter-spacing: 0.15em;
